@@ -39,7 +39,18 @@ Find more about me:
 
 
 
-### 🛠 &nbsp; Loved Tech Stack/Tools:
+### 💼 &nbsp; Languages <i style="font-size: small;">(click to visit repos)</i>
+
+- [`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Scala - Learning Now`](learning)
+
+- [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) _(Basic knowledge)_
+
+- [`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
+- [`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
+
+
+
+### 🛠 &nbsp; Frameworks/Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
