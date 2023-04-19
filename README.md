@@ -8,10 +8,6 @@
 
 
 
-<a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
-  <h2 align="center" >Taric Ov</h2>
-</a>
-
 <div align="center">
 Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang
 </p>
@@ -39,6 +35,10 @@ Find more about me:
   </p>
   
 </div>
+
+<p align="center"><a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
+  <h2 align="center" >Taric Ov</h2>
+</a></p>
 
 
 
