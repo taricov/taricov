@@ -45,12 +45,12 @@ Find more about me:
 
 ### 💼 &nbsp; Languages <i style="font-size: small;">(click to visit repos)</i>
 
-- [`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Scala - Learning Now`](learning)
+[`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Scala - Learning Now`](learning)
 
-- [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) _(Basic knowledge)_
+[`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) _(Basic knowledge)_
 
-- [`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
-- [`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
+[`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
+[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
 
 
 
