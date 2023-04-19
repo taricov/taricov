@@ -4,9 +4,10 @@
 
 <p align="center"><img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
 
-![111](https://user-images.githubusercontent.com/65824043/232863542-54bb3401-c843-40af-995e-f030201d47b7.gif)
 
-
+<a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
+  <h2 align="center" >Taric Ov</h2>
+</a>
 
 <div align="center">
 Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang
@@ -36,9 +37,9 @@ Find more about me:
   
 </div>
 
-<p align="center"><a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
-  <h2 align="center" >Taric Ov</h2>
-</a></p>
+<p align="center">
+  ![111](https://user-images.githubusercontent.com/65824043/232863542-54bb3401-c843-40af-995e-f030201d47b7.gif)
+</p>
 
 
 
