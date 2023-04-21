@@ -85,7 +85,7 @@ Find more about me:
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taricov&theme=dark&background=000000)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taricov&layout=compact&theme=vision-friendly-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taricov&layout=compact&theme=vision-friendly-dark)](https://github.com/taricov/github-readme-stats)
 
 ---
 
