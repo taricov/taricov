@@ -25,24 +25,28 @@ Find more about me:
   </p>
   
 </div>
+
 <p align="center">
   <img width="423" alt="gif about taricov" src="https://user-images.githubusercontent.com/65824043/232863542-54bb3401-c843-40af-995e-f030201d47b7.gif">
 </p>
 
 
+<div align="center">
 
-#### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖 💻
+
+### 💻 &nbsp; 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖 
 
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=white&color=ddd)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=fff&color=red)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0073d4)
 
 
-#### Language I use 💼
-
-<!-- ### &nbsp; Languages <i style="font-size: small;">(click to visit repos)</i> -->
+### 💼 &nbsp; Language I use <i style="font-size: small;">(click to visit repos)</i>
+  
 [`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Scala - Learning Now`](learning)
+  
 [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) _(Basic knowledge)_
+
 [`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
 [`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
 
@@ -75,6 +79,8 @@ Find more about me:
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taricov&theme=dark&background=000000)](https://github.com/taricov?tab=repositories)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taricov&layout=compact&theme=vision-friendly-dark)](https://github.com/taricov)
 
+</div>
 ---
