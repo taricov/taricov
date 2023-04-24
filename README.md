@@ -47,7 +47,7 @@ Find more about me:
   
 [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) • [`Lua`](https://github.com/taricov?tab=repositories&language=lua) _(Basic knowledge)_
 
-[`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
+[`R`](https://github.com/taricov?tab=repositories&language=r) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) _(used to use it for analysis)_
 [`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
 
   
