@@ -19,17 +19,15 @@ Find more about me:
   </a>
   
   <p align="center" style="display:inline-block">
+  <p>The Samurai Nation - Podcast and Blog</p>
      <a href="https://open.spotify.com/show/0m9QC7CukeigGFxknC00v3">
-    <img src="https://img.shields.io/badge/Taric%20Ov-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
+    <img src="https://img.shields.io/badge/On%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
+  </a>
+         <a href="https://soundcloud.com/samurai-nation-664714853/sets">
+    <img src="https://img.shields.io/badge/On%20SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white" alt="Taric Ov's Podcast" />
   </a>
   </p>
-  
-  <p align="center" style="display:inline-block">
-     <a href="https://soundcloud.com/samurai-nation-664714853/sets">
-    <img src="https://img.shields.io/badge/Taric%20Ov-ff7700?style=flat&logo=soundcloud&logoColor=white" alt="Taric Ov's Podcast" />
-  </a>
-  </p>
-  
+
 </div>
 
 <p align="center">
