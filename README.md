@@ -19,8 +19,14 @@ Find more about me:
   </a>
   
   <p align="center" style="display:inline-block">
-     <a href="https://podcasters.spotify.com/pod/show/thesamuraination">
+     <a href="https://podcasters.spotify.com/pod/show/thesamuraination](https://open.spotify.com/show/0m9QC7CukeigGFxknC00v3)">
     <img src="https://img.shields.io/badge/Taric%20Ov-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
+  </a>
+  </p>
+  
+  <p align="center" style="display:inline-block">
+     <a href="https://soundcloud.com/samurai-nation-664714853/sets">
+    <img src="https://img.shields.io/badge/Taric%20Ov-1DB954?style=flat&logo=soundcloud&logoColor=white" alt="Taric Ov's Podcast" />
   </a>
   </p>
   
