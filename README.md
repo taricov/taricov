@@ -1,4 +1,7 @@
-<p align="center"><img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
+<p align="center">
+  Last Updated 13/05/2023
+  <br/>
+  <img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
 <a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
   <h2 align="center" >Taric Ov</h2>
 </a>
@@ -48,18 +51,19 @@ Find more about me:
 ### 💼 &nbsp; Language I use <i style="font-size: small;">(click to visit repos)</i>
 *[if u see that we share common interest and use same languagues .. would love to have a chit-chat]*
   
-I use everyday at **WORK**
+I use everyday **At Work**
 [`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`SQL`](https://github.com/taricov?tab=repositories&language=sql) 
 
-I use in my **Side Project [ML Research/Playing]**
+I use in my side project _[ML Research/Playing]_
 [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) 
   
-Others: _[touched on them or used for shorter periods]_
+Others: _[touched/used for shorter periods]_
 [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) • [`Lua`](https://github.com/taricov?tab=repositories&language=lua) _(Basic knowledge)_
+<br/>
 [`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
   
-Currently Learning _[last updated: 13/05/2023]_
-[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) • [`Scala - Learning Now`](...learning) _(Just for toying and expermenting)_
+Current adventures _[last updated: 13/05/2023]_
+[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_ • [`Scala - Learning Now...`] 
 
   
 ### 🛠 &nbsp; Frameworks/Tools:
