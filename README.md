@@ -1,5 +1,6 @@
 <p align="center">
-<span style="font-style:italic">Last Updated 13/05/2023]</span>
+   <img src="https://img.shields.io/badge/Last%20Updated-13%2F05%2F2023-brightgreen" alt="last-updated-status" />
+  
   <br/>
   <br/>
   <img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
@@ -60,7 +61,6 @@ I use in my side project
   <br/>
   _[ML Research/Playing]_
 <br/>
-  
 [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) 
   
 Others:
