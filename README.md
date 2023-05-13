@@ -1,6 +1,5 @@
 <p align="center">
-  _Last Updated 13/05/2023_
-  <br/>
+  _[Last Updated 13/05/2023]_
   <br/>
   <br/>
   <img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
