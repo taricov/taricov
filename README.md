@@ -46,13 +46,20 @@ Find more about me:
 
 
 ### 💼 &nbsp; Language I use <i style="font-size: small;">(click to visit repos)</i>
+*[if u see that we share common interest and use same languagues .. would love to have a chit-chat]*
   
-[`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`SQL`](https://github.com/taricov?tab=repositories&language=sql) • [`Scala - Learning Now`](learning)
-  
-[`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) • [`Lua`](https://github.com/taricov?tab=repositories&language=lua) _(Basic knowledge)_
+I use everyday at **WORK**
+[`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`SQL`](https://github.com/taricov?tab=repositories&language=sql) 
 
-[`R`](https://github.com/taricov?tab=repositories&language=r) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) _(used to use it for analysis)_
-[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
+I use in my **Side Project [ML Research/Playing]**
+[`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) 
+  
+Others: _[touched on them or used for shorter periods]_
+[`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) • [`Lua`](https://github.com/taricov?tab=repositories&language=lua) _(Basic knowledge)_
+[`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
+  
+Currently Learning _[last updated: 13/05/2023]_
+[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) • [`Scala - Learning Now`](...learning) _(Just for toying and expermenting)_
 
   
 ### 🛠 &nbsp; Frameworks/Tools:
