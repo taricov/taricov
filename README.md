@@ -1,5 +1,7 @@
 <p align="center">
-  Last Updated 13/05/2023
+  _Last Updated 13/05/2023_
+  <br/>
+  <br/>
   <br/>
   <img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
 <a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
@@ -58,8 +60,8 @@ I use everyday **At Work**
 I use in my side project 
   <br/>
   _[ML Research/Playing]_
-
-  <br/>
+<br/>
+  
 [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) 
   
 Others:
@@ -73,7 +75,7 @@ Current adventures
 <br/>
 _[last updated: 13/05/2023]_
 <br/>
-[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_ • [`Scala - Learning Now...`](`learning...`) 
+[`Scala - Learning Now`](`learning...`) • [`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_ 
 
   
 ### 🛠 &nbsp; Frameworks/Tools:
