@@ -52,18 +52,28 @@ Find more about me:
 *[if u see that we share common interest and use same languagues .. would love to have a chit-chat]*
   
 I use everyday **At Work**
+  <br/>
 [`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`SQL`](https://github.com/taricov?tab=repositories&language=sql) 
 
-I use in my side project _[ML Research/Playing]_
+I use in my side project 
+  <br/>
+  _[ML Research/Playing]_
+
+  <br/>
 [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) 
   
-Others: _[touched/used for shorter periods]_
+Others:
+  <br/> _[touched/used for shorter periods]_
+  <br/>
 [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) • [`Lua`](https://github.com/taricov?tab=repositories&language=lua) _(Basic knowledge)_
 <br/>
 [`R`](https://github.com/taricov?tab=repositories&language=r) _(used to use it for analysis)_
   
-Current adventures _[last updated: 13/05/2023]_
-[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_ • [`Scala - Learning Now...`] 
+Current adventures
+<br/>
+_[last updated: 13/05/2023]_
+<br/>
+[`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_ • [`Scala - Learning Now...`](`learning...`) 
 
   
 ### 🛠 &nbsp; Frameworks/Tools:
