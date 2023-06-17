@@ -22,14 +22,18 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
   
   <p align="center" style="display:inline-block">
 <!--   <p>The Samurai Nation - Podcast and Blog</p> -->
-  <p>Podcasting and Blogging</p>
-     <a href="https://soundcloud.com/taricov/sets/the-samurai-nation">
-<!--      <a href="https://open.spotify.com/show/0m9QC7CukeigGFxknC00v3"> -->
-    <img src="https://img.shields.io/badge/On%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
+  <p>Podcasting and Vlogging</p>
+         <a href="https://www.youtube.com/@TaricOv">
+    <img src="https://img.shields.io/badge/On%20Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Taric Ov's Youtube Channel" />
   </a>
-         <a href="https://soundcloud.com/taricov/sets/my-share-ables">
+          <a href="https://soundcloud.com/taricov/sets/my-share-ables">
     <img src="https://img.shields.io/badge/On%20SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white" alt="Taric Ov's Podcast" />
   </a>
+<!--      <a href="https://soundcloud.com/taricov/sets/the-samurai-nation"> -->
+     <a href="https://open.spotify.com/show/0m9QC7CukeigGFxknC00v3">
+    <img src="https://img.shields.io/badge/On%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
+  </a>
+ 
 <!-- <a href="https://soundcloud.com/taricov/sets/the-samurai-nation">
     <img src="https://img.shields.io/badge/On%20SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white" alt="Samuraination's Podcast" />
   </a> -->
