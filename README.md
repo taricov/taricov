@@ -1,11 +1,13 @@
 <p align="center"><img width="423" alt="image" src="https://user-images.githubusercontent.com/65824043/232585272-40b4cabc-6e8a-4014-af68-78af896e9608.png"></p>
 <a href="https://twitter.com/taricov" style="font-size:15px;padding: 4px 2px;background: gray">
-  <h2 align="center" >Taric Ov</h2>
+  <h2 align="center" >Taric Ov
+  (Samurai)
+  </h2>
 </a>
 <div align="center">
 Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang
 </p>
-Find more about me:
+<!-- Find more about me: -->
 <div align="center">
   <a href="https://twitter.com/taric_ov">
     <img src="https://img.shields.io/twitter/follow/taric_ov?style=social" alt="Taric Ov's Twitter Account" />
@@ -35,9 +37,9 @@ Find more about me:
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img width="423" alt="gif about taricov" src="https://user-images.githubusercontent.com/65824043/232863542-54bb3401-c843-40af-995e-f030201d47b7.gif">
-</p>
+</p> -->
 
 
 <div align="center">
@@ -45,7 +47,7 @@ Find more about me:
 
 ### 💻 &nbsp; 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖 
 
-![](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=white&color=ddd)
+![](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=black&color=ddd)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=fff&color=red)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0073d4)
 
