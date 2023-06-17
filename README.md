@@ -15,12 +15,18 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
   <a href="https://linkedin.com/in/taricov">
     <img src="https://img.shields.io/badge/Taric%20Ov-0077B5?style=flat&logo=linkedin&logoColor=fff" alt="Taric Ov's Linkedin Account"/>
   </a>
-  
+    <a href="https://dev.to/taricov">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Taric Ov's Dev.to Account" />
+  </a>
   <a href="https://taric-ov.medium.com/">
     <img src="https://img.shields.io/badge/Taric%20Ov-fff?style=flat&logo=medium&logoColor=000" alt="Taric Ov's Medium Account" />
   </a>
   
   <p align="center" style="display:inline-block">
+     <p>CringyAI and Moving Things (Newsletter)</p>
+         <a href="bit.ly/cringyai">
+    <img src="https://img.shields.io/badge/CringyAI%20and%20Moving%20Things-#fff?style=flat&logo=ye&logoColor=black" alt="Taric Ov's Newsletter - CringyAI and Moving Things" />
+  </a>
 <!--   <p>The Samurai Nation - Podcast and Blog</p> -->
   <p>Podcasting and Vlogging</p>
          <a href="https://www.youtube.com/@TaricOv">
