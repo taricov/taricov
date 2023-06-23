@@ -39,11 +39,7 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
      <a href="https://open.spotify.com/show/0m9QC7CukeigGFxknC00v3">
     <img src="https://img.shields.io/badge/On%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
   </a>
- 
-<!-- <a href="https://soundcloud.com/taricov/sets/the-samurai-nation">
-    <img src="https://img.shields.io/badge/On%20SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white" alt="Samuraination's Podcast" />
-  </a> -->
-<!--   </p> -->
+
 
 </div>
 
