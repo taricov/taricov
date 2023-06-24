@@ -47,7 +47,6 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
   <img width="423" alt="gif about taricov" src="https://user-images.githubusercontent.com/65824043/232863542-54bb3401-c843-40af-995e-f030201d47b7.gif">
 </p> -->
 
-
 <div align="center">
 
 
