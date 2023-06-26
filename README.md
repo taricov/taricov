@@ -24,7 +24,7 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
   
   <p align="center" style="display:inline-block">
      <p>CringyAI and Moving Things (Newsletter)</p>
-         <a href="bit.ly/cringyai">
+         <a href="https://bit.ly/cringyai">
     <img src="https://img.shields.io/badge/Newsletter-CringyAI%20and%20Moving%20Things-white" alt="Taric Ov's Newsletter - CringyAI and Moving Things" />
   </a>
 <!--   <p>The Samurai Nation - Podcast and Blog</p> -->
