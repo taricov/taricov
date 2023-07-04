@@ -49,7 +49,6 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
 
 <div align="center">
 
-
 ### 💻 &nbsp; 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖 
 
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=black&color=ddd)
