@@ -8,6 +8,7 @@
 Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang
 </p>
 <!-- Find more about me: -->
+  
 <div align="center">
   <a href="https://twitter.com/taric_ov">
     <img src="https://img.shields.io/twitter/follow/taric_ov?style=social" alt="Taric Ov's Twitter Account" />
