@@ -41,7 +41,6 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
     <img src="https://img.shields.io/badge/On%20Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Taric Ov's Spotify Podcast" />
   </a>
 
-
 </div>
 
 <!-- <p align="center">
