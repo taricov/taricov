@@ -108,7 +108,7 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
 ### 🛠 &nbsp; OS:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
