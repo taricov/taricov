@@ -19,7 +19,7 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
     <a href="https://dev.to/taricov">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flar&logo=dev.to&logoColor=white" alt="Taric Ov's Dev.to Account" />
   </a>
-  <a href="https://taric-ov.medium.com/">
+  <a href="https://medium.com/@taricov">
     <img src="https://img.shields.io/badge/Taric%20Ov-fff?style=flat&logo=medium&logoColor=000" alt="Taric Ov's Medium Account" />
   </a>
   
