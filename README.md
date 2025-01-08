@@ -58,23 +58,30 @@ Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeSc
 
 ### 💼 &nbsp; Language I use <i style="font-size: small;">(click to visit repos)</i>
   
-[`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`SQL`](https://github.com/taricov?tab=repositories&language=sql) • [`Scala - Learning Now`](learning)
+[`JavaScript`](https://github.com/taricov?tab=repositories&language=javascript) • [`TypeScript`](https://github.com/taricov?tab=repositories&language=typescript) • [`Python`](https://github.com/taricov?tab=repositories&language=python) • [`Java`](https://github.com/taricov?tab=repositories&language=java) • [`Golang`](https://github.com/taricov?tab=repositories&language=golang) • [`SQL`](https://github.com/taricov?tab=repositories&language=sql) • [`Scala - Learning Now`](learning)
   
 [`PHP - Laravel`](https://github.com/taricov?tab=repositories&language=php) • [`Ruby - Rails`](https://github.com/taricov?tab=repositories&language=ruby) • [`Lua`](https://github.com/taricov?tab=repositories&language=lua) _(Basic knowledge)_
 
 [`R`](https://github.com/taricov?tab=repositories&language=r) • [`Julia`](https://github.com/taricov?tab=repositories&language=julia) _(used to use it for analysis)_
 [`C++`](https://github.com/taricov?tab=repositories&language=c%2B%2B) _(Just for toying and expermenting)_
 
+&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/java-original-wordmark.svg" title="java"  alt="java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+
+
+
   
 ### 🛠 &nbsp; Frameworks/Tools:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs"  alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="svelte" alt="svelte" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3"  alt="css3" width="40" height="40"/>&nbsp;
