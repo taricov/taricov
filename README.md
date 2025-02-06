@@ -5,8 +5,8 @@
   </h2>
 </a>
 <div align="center">
-Software Engineer <a href="https://daftra.com">Daftra</a> | Data Passionate | AI Junkie <br/> 
-  Team Lead - Custom Solutions Team @Daftra ERP | SaaS | Driving Scalable & Tailored Business Solutions
+Software Engineer, Data Passionate, AI Junkie, and the last creepy Samurai <br/> 
+  Team Lead - Custom Solutions Team <a href="https://daftra.com">@Daftra ERP</a> | SaaS | Driving Scalable & Tailored Business Solutions
 </p>
 <!-- Find more about me: -->
   
