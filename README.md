@@ -5,8 +5,7 @@
   </h2>
 </a>
 <div align="center">
-Team Lead and Software Engineer   <a href="https://twitter.com/taric_ov">
-    <img src="https://daftra.com" alt="Daftra ERP" />Daftra</a> | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang | Java
+Team Lead and Software Engineer   <a href="https://daftra.com">Daftra</a> | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang | Java
 </p>
 <!-- Find more about me: -->
   
