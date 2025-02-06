@@ -7,7 +7,7 @@
 <div align="center">
 Software Engineer @Daftra | Data Passionate | AI Junkie <br/>SaaS | ERP | TypeScript | ReactJs | VueJs | SvelteKit | NextJs | Python | Laravel | Ruby | Golang
 </p>
-<!-- Find more about me: -->
+
   
 <div align="center">
   <a href="https://twitter.com/taric_ov">
