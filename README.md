@@ -8,7 +8,7 @@
 Software Engineer, Data Passionate, AI Junkie, and the last creepy Samurai <br/> 
   Team Lead - Custom Solutions Team <a href="https://daftra.com">@Daftra ERP</a> | SaaS | Driving Scalable & Tailored Business Solutions
 </p>
-<!-- Find more about me: -->
+<!-- Find more about me -->
   
 <div align="center">
   <a href="https://twitter.com/taric_ov">
